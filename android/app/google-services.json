@@ -29,6 +29,13 @@
             {
               "client_id": "1030971242207-r8hvtg505qr6362n8teg2ccbuge0hnm2.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1030971242207-6qqr4q2kh5kimdtdrsril1653q1g0ggg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireNotes"
+              }
             }
           ]
         }
